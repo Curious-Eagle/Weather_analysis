@@ -52,3 +52,30 @@ This project is designed to be run in a Jupyter Notebook environment.
 * **Matplotlib & Seaborn** for static data visualizations.
 * **Scikit-learn & Statsmodels** for statistical modeling.
 * **Folium** for interactive geographic maps.
+
+## Visual Output
+<img width="1489" height="954" alt="image" src="https://github.com/user-attachments/assets/67337cdf-ab0b-48b6-8f3e-0dae3841ce85" />
+<img width="1389" height="1145" alt="image" src="https://github.com/user-attachments/assets/49c57c65-1eb4-4a91-82e1-c531417bfc81" />
+<img width="1389" height="1145" alt="image" src="https://github.com/user-attachments/assets/a5d20677-0ef1-4a00-8369-094191891d0d" />
+<img width="1389" height="1145" alt="image" src="https://github.com/user-attachments/assets/4b438580-f2ca-40fa-9f0d-ee36465c7a14" />
+<img width="862" height="769" alt="image" src="https://github.com/user-attachments/assets/a2b691a8-e0fd-4a44-845d-8a15b3e84b6f" />
+<img width="1389" height="1430" alt="image" src="https://github.com/user-attachments/assets/e72040ea-d680-44ba-8c4a-499316c51ff4" />
+<img width="1389" height="1430" alt="image" src="https://github.com/user-attachments/assets/c9195270-c3c9-494f-988f-479eb28d2629" />
+<img width="1389" height="1430" alt="image" src="https://github.com/user-attachments/assets/9ff70886-3282-4166-82c9-6da0192214a5" />
+<img width="1476" height="1528" alt="image" src="https://github.com/user-attachments/assets/508fed2f-a635-4ace-b606-40793f3b971b" />
+<img width="1122" height="743" alt="image" src="https://github.com/user-attachments/assets/a8cbd954-ce9e-4106-9f33-a8a7bf22d31f" />
+<img width="1122" height="743" alt="image" src="https://github.com/user-attachments/assets/ef2a13cb-9f94-4e32-9280-a1417812c165" />
+<img width="835" height="540" alt="image" src="https://github.com/user-attachments/assets/200663f8-8612-4b17-9d24-0d7661515440" />
+
+
+
+
+
+
+
+
+
+
+
+
+
