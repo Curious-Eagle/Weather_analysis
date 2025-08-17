@@ -1,4 +1,4 @@
-# Environmental Air Quality Analysis 🌍💨
+# Environmental Air Quality Analysis
 
 This project provides a comprehensive analysis of air quality and its relationship with meteorological data for a chosen location. It uses Python and common data science libraries to process, analyze, and visualize environmental data trends.
 
